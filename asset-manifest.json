@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/mobile-bazaar/static/js/main.b649351e.js",
+    "static/js/453.55fbe2ed.chunk.js": "/mobile-bazaar/static/js/453.55fbe2ed.chunk.js",
+    "index.html": "/mobile-bazaar/index.html",
+    "main.b649351e.js.map": "/mobile-bazaar/static/js/main.b649351e.js.map",
+    "453.55fbe2ed.chunk.js.map": "/mobile-bazaar/static/js/453.55fbe2ed.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.b649351e.js"
+  ]
+}
