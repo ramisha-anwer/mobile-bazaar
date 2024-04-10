@@ -66,7 +66,7 @@ export function CommonHeader({ opened, setOpened }) {
                 mr="xl"
               />
             </MediaQuery>
-          <MantineLogo />
+          <h2>Mobile Bazaar</h2>
         </Group>
         <Group ml={50} spacing={5} className={classes.links}>
           <Link key='Home' to="/" className={classes.link}>Home</Link>
